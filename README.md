@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/valentin-ageev-7b0265274/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
-<!--   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a> -->
-</p>
 
 ### Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
@@ -46,13 +36,19 @@ Here are some ideas to get you started:
 *   [Skyscanner Flight API client](https://github.com/v01001/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/v01001/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
-<!-- Счетчик просмотров-->
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/v01001/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=v01001&color=DE002D">
+<!-- Контакты -->
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/valentin-ageev-7b0265274/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-</div>
+   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+<!--   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a> -->
+</p>
 
 <!-- Статистика аккаунта -->
 <p align='center'>
@@ -61,3 +57,11 @@ Here are some ideas to get you started:
    <a href="https://github.com/v01001/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01001&layout=compact"/></a>
 </p>
+
+<!-- Счетчик просмотров-->
+
+<div align="right" style="margin: 40px 0">
+   <a href="https://github.com/v01001/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=v01001&color=DE002D">
+   </a>
+</div>
