@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-### Key points
-Junior тестировщик
+### About
+Junior тестировщик в поиске своей первой работы!
 
-## 🛠 Навыки
+## 🛠 Skills
 *   Анализ, декомпозиция, визуализация требований
 *   Функциональное тестирование Веб, мобильных приложений
 *   Тестирование API (Postman)
@@ -42,6 +42,7 @@ Junior тестировщик
 <!-- Контакты -->
 
 <p align='center'>
+   Контакты:
    <a href="https://www.linkedin.com/in/valentin-ageev-7b0265274/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
