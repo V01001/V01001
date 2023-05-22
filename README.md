@@ -45,7 +45,7 @@ Junior тестировщик в поиске своей первой работ
 <!-- Контакты -->
 
 <p align='center'>
-   Контакты:<br>
+##   📫 Контакты:<br>
    <a href="https://www.linkedin.com/in/valentin-ageev-7b0265274/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
