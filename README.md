@@ -56,6 +56,7 @@ Junior тестировщик в поиске своей первой работ
 </p>
 
 <!-- Статистика аккаунта -->
+## :cd: My Git Stats
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=v01001&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=v01001&show_icons=true&count_private=true"/></a>
