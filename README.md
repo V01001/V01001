@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### About
+### 💬 About
 Junior тестировщик в поиске своей первой работы!
 
 ## 🛠 Skills
@@ -29,7 +29,7 @@ Junior тестировщик в поиске своей первой работ
 *   Работа с API-документацией (Swagger, Apidoc)
 *   Знаком с Figma, HTML, CSS, Git
 
-## 🛠 Language
+## 😄 Language
 *   Русский (родной)
 *   Английский (<a href="https://efset.org/cert/HZYnV3">сертификат B2 Upper Intermediate</a>)
 
@@ -45,7 +45,7 @@ Junior тестировщик в поиске своей первой работ
 <!-- Контакты -->
 
 <p align='center'>
-##   📫 Контакты:<br>
+   Контакты:<br>
    <a href="https://www.linkedin.com/in/valentin-ageev-7b0265274/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
