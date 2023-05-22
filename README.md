@@ -1,5 +1,3 @@
-### Hi there!!! 👋
-
 <!--
 **V01001/V01001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ### About
-Junior тестировщик в поиске своей первой работы!
+Junior тестировщик в поиске своей первой работы! 
 
 ## 🛠 Skills
 *   Анализ, декомпозиция, визуализация требований
@@ -42,7 +40,7 @@ Junior тестировщик в поиске своей первой работ
 <!-- Контакты -->
 
 <p align='center'>
-   Контакты:
+   Контакты:<br>
    <a href="https://www.linkedin.com/in/valentin-ageev-7b0265274/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
