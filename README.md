@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 💬 About
+### :beetle: About
 Junior тестировщик в поиске своей первой работы!
 
 ## 🛠 Skills
@@ -29,7 +29,7 @@ Junior тестировщик в поиске своей первой работ
 *   Работа с API-документацией (Swagger, Apidoc)
 *   Знаком с Figma, HTML, CSS, Git
 
-## 😄 Language
+## :earth_africa: Language
 *   Русский (родной)
 *   Английский (<a href="https://efset.org/cert/HZYnV3">сертификат B2 Upper Intermediate</a>)
 
