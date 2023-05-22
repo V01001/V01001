@@ -30,7 +30,7 @@ Junior тестировщик в поиске своей первой работ
 
 ## 🛠 Language
 *   Русский (родной)
-*   Английский (<a href="efset.org/cert/HZYnV3">сертификат B2 Upper Intermediate</a>)
+*   Английский (<a href="https://efset.org/cert/HZYnV3">сертификат B2 Upper Intermediate</a>)
 
 <!--
 ### My opensource projects
