@@ -55,7 +55,14 @@ Junior тестировщик в поиске своей первой работ
 <!--   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a> -->
 </p>
 
+<!-- Веб -->
+## :rooster: Web
+<a href="https://vcosmos.w3spaces.com/">Временная страничка</a> (для опытов)
+
+
+
 <!-- Статистика аккаунта -->
+<!--
 ## :cd: My Git Stats
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=v01001&show_icons=true&count_private=true">
@@ -63,7 +70,7 @@ Junior тестировщик в поиске своей первой работ
    <a href="https://github.com/v01001/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01001&layout=compact"/></a>
 </p>
-
+-->
 <!-- Счетчик просмотров-->
 
 <div align="right" style="margin: 40px 0">
